@@ -5,8 +5,8 @@
 I'm a final-year Computer Science student at **NIT Patna**, driven by a passion for building high-quality, scalable, and user-centric applications. I specialize in the MERN stack, mobile development, and emerging technologies like AI and Blockchain, with a keen eye for crafting seamless user experiences from concept to deployment.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/anjalikumari2207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anjalikumari1153@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3393FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
